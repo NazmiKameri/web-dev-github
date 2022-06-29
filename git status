@@ -1,0 +1,11 @@
+[33mcommit 987ca871fc927b433ccb4b4e5c0f635109c02308[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m, [m[1;32mmain[m[33m)[m
+Author: NazmiKameri <nazmikameri123@gmail.com>
+Date:   Wed Jun 29 09:14:48 2022 +0200
+
+    changed text.txt adn added second commit
+
+[33mcommit 14ec402fd7bc556f510b9541c5c5e417be88b98d[m
+Author: NazmiKameri <76222684+NazmiKameri@users.noreply.github.com>
+Date:   Wed Jun 29 09:01:53 2022 +0200
+
+    added test.txt file
